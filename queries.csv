@@ -1,0 +1,121 @@
+query_id,category,category_index,language,query
+RQ1-P01,product_recommendation,1,zh,"For dry and sensitive skin, which works better for seasonal skin stabilization: Helena Rubinstein Re-Plasty Age Recovery Night Cream (""black bandage"") or La Mer Creme de la Mer?"
+RQ1-P02,product_recommendation,2,zh,"If I plan to buy a new-energy midsize SUV around RMB 200,000 in 2026, which has better chassis feel: BYD Tang DM-i or Li Auto L6?"
+RQ1-P03,product_recommendation,3,zh,"For a kitten that easily has soft stool, which reputable grain-free, hypoallergenic baked cat-food brands are recommended?"
+RQ1-P04,product_recommendation,4,zh,"For a cost-effective washer-dryer combo suitable for a 30-square-meter small apartment, which brand has more mature technology: Haier, Midea, or LG?"
+RQ1-P05,product_recommendation,5,zh,"When buying calcium supplements for older adults over 50 with osteoporosis risk, which has higher absorption: calcium carbonate or calcium citrate?"
+RQ1-P06,product_recommendation,6,zh,"For trekking at around 5,000 meters above sea level, which performs better in extreme wind protection: Arc'teryx Beta AR or Mammut Nordwand?"
+RQ1-P07,product_recommendation,7,zh,"Among 2025–2026 flagship OLED TVs from Sony, Samsung, and LG, how do their input latencies compare for PS5 gaming?"
+RQ1-P08,product_recommendation,8,zh,"In whole-home smart systems, how do Xiaomi Mijia and Huawei Whole House Intelligence compare in renovation cost for a three-bedroom, two-living-room layout?"
+RQ1-P09,product_recommendation,9,zh,"For entry-level carbon-plate running shoes under RMB 2,000, which is more wear-resistant: Qiaodan Feiying, Xtep 160X, or Li-Ning Feidian?"
+RQ1-P10,product_recommendation,10,zh,Ergonomic office-chair purchase: how do Herman Miller Aeron and the domestic Ergonor Baoyou Jinhao B differ in lumbar support?
+RQ1-P11,product_recommendation,11,en,What are the best noise-canceling headphones for international flights under $300 in 2026?
+RQ1-P12,product_recommendation,12,en,Comparing Dyson V15 and Shark Stratos: Which cordless vacuum is better for pet hair on carpets?
+RQ1-P13,product_recommendation,13,en,Is the Kindle Paperwhite Color (2025 edition) worth upgrading from the previous generation?
+RQ1-P14,product_recommendation,14,en,"Best mineral sunscreens for dark skin tones that leave zero white cast, according to dermatologists."
+RQ1-P15,product_recommendation,15,en,"Mechanical keyboard switches: Cherry MX Brown vs. Gateron Tea, which is better for heavy typing?"
+RQ1-P16,product_recommendation,16,en,Which baby stroller is more durable for urban terrain: UPPAbaby Vista V2 or Bugaboo Fox 5?
+RQ1-P17,product_recommendation,17,en,Best budget-friendly mirrorless cameras for beginners interested in 4K vlogging in 2026.
+RQ1-P18,product_recommendation,18,en,Comparing organic vs. synthetic fertilizers for indoor vegetable gardening: Which has better yield?
+RQ1-P19,product_recommendation,19,en,High-end coffee grinders: Is the Niche Zero still the king for home espresso in 2026?
+RQ1-P20,product_recommendation,20,en,Lululemon Align vs. Alo Yoga Airlift: Which leggings hold up better after 50+ washes?
+RQ1-P21,product_recommendation,21,zh,"For small-apartment kitchens, which built-in dishwasher is stronger in cleaning power and drying performance: Fotile, Robam, or Siemens?"
+RQ1-P22,product_recommendation,22,zh,"For mainstream 2026 foldable phones (Huawei Mate X6 vs. Samsung Z Fold 7), how do crease control and hinge durability compare?"
+RQ1-P23,product_recommendation,23,zh,"For a first high-end lipstick purchase, what are the specific review differences among Chanel, Dior, and Tom Ford in color payoff and moisturizing feel?"
+RQ1-P24,product_recommendation,24,zh,"For beginners learning acoustic guitar, which is easier for fretting and hand feel: Yamaha FG800 or Cort Earth 70?"
+RQ1-P25,product_recommendation,25,zh,"Among popular sugar-free electrolyte waters (Genki Forest vs. Pocari Sweat), which is more scientifically effective for replenishing lost minerals?"
+RQ1-P26,product_recommendation,26,zh,"For home projectors, how do XGIMI H7 and Dangbei F6 compare in brightness under strong daytime light (CVIA lumens)?"
+RQ1-P27,product_recommendation,27,zh,"For hair-loss concerns, which is more effective according to clinical feedback and user experience: minoxidil tincture or oriental arborvitae leaf shampoo?"
+RQ1-P28,product_recommendation,28,en,Which 2026 laptop has the longest battery life for students: MacBook Air M4 or Dell XPS 13?
+RQ1-P29,product_recommendation,29,en,Evaluating 2026 electric mountain bikes: Specialized Turbo Levo vs. Trek Rail performance.
+RQ1-P30,product_recommendation,30,en,Best third-party replacement parts for Tesla Model 3 that do not void the warranty.
+RQ1-N01,news_current_events,1,zh,"In the past 24 hours, what major developments have occurred in geopolitical conflicts in the Middle East, such as the Israel-Palestine or Red Sea situations?"
+RQ1-N02,news_current_events,2,zh,"Was SpaceX's most recent Starship orbital test flight completely successful? Did the Super Heavy booster complete the ""chopsticks"" catch?"
+RQ1-N03,news_current_events,3,zh,"What was the U.S. Federal Reserve's latest interest-rate decision this month in 2026, and how did global cryptocurrency and stock markets react immediately?"
+RQ1-N04,news_current_events,4,zh,"For the latest model released by a major large-model company such as OpenAI or DeepSeek, what are the industry's main evaluations of its benchmarks?"
+RQ1-N05,news_current_events,5,zh,"Who won Best Picture at this year's Academy Awards or a recent major international film festival, and what reasons did the jury give?"
+RQ1-N06,news_current_events,6,zh,"What are the latest impacts of recent large-scale extreme weather events worldwide, such as hurricanes or heat waves, on local supply chains in 2026?"
+RQ1-N07,news_current_events,7,zh,"In response to recent fluctuations in international energy markets, what latest production-cut or production-increase plan has OPEC+ announced?"
+RQ1-N08,news_current_events,8,zh,"In the past week, what major legal updates have occurred in AI legislation, such as the EU AI Act or new U.S. executive orders?"
+RQ1-N09,news_current_events,9,zh,"What are the latest medal-table dynamics at the current Olympics or a recent world-class sporting event, and which country leads in gold medals?"
+RQ1-N10,news_current_events,10,zh,"For the recent outages at well-known Internet service providers, what final root-cause analysis has the official report provided?"
+RQ1-N11,news_current_events,11,en,What are the key takeaways from the latest G7 summit regarding international trade and AI safety?
+RQ1-N12,news_current_events,12,en,Detailed report on the most recent breakthrough in Nuclear Fusion energy announced this month.
+RQ1-N13,news_current_events,13,en,Summary of the 2026 UN Climate Change Conference (COP) pledges from major industrial nations.
+RQ1-N14,news_current_events,14,en,How did the global markets react to the unexpected CEO shuffle at a major Tech giant this week?
+RQ1-N15,news_current_events,15,en,The latest score and key moments from last night's UEFA Champions League (or Super Bowl) final.
+RQ1-N16,news_current_events,16,en,Breaking news: The current status of the international space station decommissioning project.
+RQ1-N17,news_current_events,17,en,New regulations on cross-border data privacy passed by the European Parliament this quarter.
+RQ1-N18,news_current_events,18,en,"Who are the winners of the 2026 Nobel Prize in Physics, and what was their groundbreaking discovery?"
+RQ1-N19,news_current_events,19,en,Latest updates on the global semiconductor chip war: New export controls or fab announcements.
+RQ1-N20,news_current_events,20,en,Recent protest movements in major world cities: What are the primary demands of the organizers?
+RQ1-N21,news_current_events,21,zh,"Regarding recent abnormal volatility in China's A-share market, what latest stabilization policies did the China Securities Regulatory Commission or the central bank issue this week?"
+RQ1-N22,news_current_events,22,zh,What are the latest quarterly earnings data and future outlooks recently released by global chip-industry firms such as NVIDIA or TSMC in 2026?
+RQ1-N23,news_current_events,23,zh,What are the implementation details of a recent bankruptcy-protection or large-scale layoff plan announced by a major multinational retailer?
+RQ1-N24,news_current_events,24,zh,"What are the core attractions of a recently popular domestic cultural-tourism destination, such as the next hotspot after Zibo, Harbin, or Tianshui?"
+RQ1-N25,news_current_events,25,zh,"Regarding the Mars Sample Return program recently watched by the international aerospace community, what is the latest plan progress from NASA or national space agencies?"
+RQ1-N26,news_current_events,26,en,What is the current status of the 2026 World Cup qualification rounds for the Asian teams?
+RQ1-N27,news_current_events,27,en,Recent cyber-attacks on critical infrastructure: Which hacker groups were allegedly involved?
+RQ1-N28,news_current_events,28,en,"The latest updates on the development of ""Room-temperature Superconductors"" in 2026 research."
+RQ1-N29,news_current_events,29,en,Summary of the recently concluded global summit on pandemic preparedness and vaccine sharing.
+RQ1-N30,news_current_events,30,en,Analysis of the impact of the latest US-China trade negotiations on global electronic exports.
+RQ1-O01,experience_opinion,1,zh,"After the recent cooling of China's glamping trend in 2026, what core reasons do players give online for quitting and reselling second-hand gear?"
+RQ1-O02,experience_opinion,2,zh,"In early 2026, what are the most common negative feelings that single users report from real dating experiences with various ""AI matchmaker"" apps?"
+RQ1-O03,experience_opinion,3,zh,"After age 30, do people who gave up high-paying jobs at large tech firms to return to their home counties for civil-service exams generally regret it now?"
+RQ1-O04,experience_opinion,4,zh,What social and interpersonal challenges do people face after long-term adherence to decluttering and minimalist lifestyles?
+RQ1-O05,experience_opinion,5,zh,"Why are young people increasingly inclined to ""cut off relatives""? What is the mainstream explanation on social media?"
+RQ1-O06,experience_opinion,6,zh,"For a first independent trip to Japan's Kansai region (Osaka, Kyoto, Nara), what pitfalls are easy to encounter but often absent from travel guides?"
+RQ1-O07,experience_opinion,7,zh,"What negative effects does long-term remote work have on mental health, and what solutions are most discussed in workplace communities?"
+RQ1-O08,experience_opinion,8,zh,"How should we view the claim that ""it is increasingly hard for children from poor families to rise"" in the 2026 employment environment?"
+RQ1-O09,experience_opinion,9,zh,What visa and social-security pain points do freelancers commonly face when living as digital nomads in Southeast Asia?
+RQ1-O10,experience_opinion,10,zh,"When college students choose side jobs such as becoming uploaders or doing livestream commerce, what stage do they most often describe as the hardest?"
+RQ1-O11,experience_opinion,11,en,"Is the ""Fire Movement"" (Early Retirement) still achievable in 2026 with the current global inflation?"
+RQ1-O12,experience_opinion,12,en,Why are more people in their 20s choosing to be child-free? Common reasons shared on Reddit.
+RQ1-O13,experience_opinion,13,en,"The harsh reality of living in a ""Van Life"" converted school bus that influencers do not show."
+RQ1-O14,experience_opinion,14,en,How to effectively set boundaries with toxic family members without cutting them off completely?
+RQ1-O15,experience_opinion,15,en,What are the most common regrets from people who chose a PhD over entering the corporate world?
+RQ1-O16,experience_opinion,16,en,"Why did the ""Metaverse"" hype fail, and what do former investors say about its future in 2026?"
+RQ1-O17,experience_opinion,17,en,Is learning to code still a good career move in 2026 given the advancement of AI agents?
+RQ1-O18,experience_opinion,18,en,"The pros and cons of ""Quiet Quitting"" in high-pressure tech companies according to recent threads."
+RQ1-O19,experience_opinion,19,en,Cultural etiquette tips for first-time solo female travelers visiting Middle Eastern countries.
+RQ1-O20,experience_opinion,20,en,"How has the definition of a ""Successful Life"" shifted for Gen Z compared to the Baby Boomer generation?"
+RQ1-O21,experience_opinion,21,zh,"For young people in Beijing or Shanghai who choose to live as ""full-time children,"" what are their real daily schedules and sources of psychological pressure?"
+RQ1-O22,experience_opinion,22,zh,"Why are dating reality shows increasingly seen as ""manufactured sweetness""? Where do viewers' main criticisms concentrate on social platforms?"
+RQ1-O23,experience_opinion,23,zh,"For people who have insisted on ""not buying a home, only renting"" for more than 10 years, what practical concerns worry them most as they enter middle age?"
+RQ1-O24,experience_opinion,24,zh,"How should we evaluate the recent social-media wave of ""refined saving"" and ""reverse consumption""?"
+RQ1-O25,experience_opinion,25,zh,What mental journey do women who persist in heavy strength training at gyms experience when breaking body-image anxiety?
+RQ1-O26,experience_opinion,26,zh,What is the deepest analysis in 2026 workplace communities of older programmers switching to food delivery or ride-hailing work?
+RQ1-O27,experience_opinion,27,en,What do former flight attendants say about the reality of working for budget vs. luxury airlines?
+RQ1-O28,experience_opinion,28,en,Why are some top-tier software engineers moving back from San Francisco to smaller cities?
+RQ1-O29,experience_opinion,29,en,Are modern dating apps like Tinder/Bumble actually leading to more loneliness according to experts?
+RQ1-O30,experience_opinion,30,en,"The psychological impact of ""Comparison Culture"" on Instagram in 2026 and how to detox."
+RQ1-T01,technical_documentation,1,zh,"In the official release of Next.js 15, what default caching policies changed completely for fetch requests and GET route handlers?"
+RQ1-T02,technical_documentation,2,zh,"In Kubernetes 1.31+, how did the concrete configuration format change after the AppArmor field moved from annotations to the Pod field?"
+RQ1-T03,technical_documentation,3,zh,"In the DeepSeek-V3 architecture, what specific data differences in inference overhead exist between Multi-Token Prediction and traditional Next-Token Prediction?"
+RQ1-T04,technical_documentation,4,zh,What benchmark data show the performance degradation of Python 3.13's experimental no-GIL build mode under multithreaded computation?
+RQ1-T05,technical_documentation,5,zh,"For the SSL Bundle unified management mechanism introduced in Spring Boot 3.4, how can dynamically reloaded certificates be configured without restarting the container?"
+RQ1-T06,technical_documentation,6,zh,"After Terraform announced its license change, what unique new features does the fork OpenTofu 1.8 provide for state-file encryption?"
+RQ1-T07,technical_documentation,7,zh,"In MySQL 9.0 Innovation Release, what specific error codes do existing legacy clients encounter after removal of the mysql_native_password authentication plugin?"
+RQ1-T08,technical_documentation,8,zh,"When Bun 1.2 replaces Node.js for handling million-scale concurrent WebSocket connections, what do the latest reports show about memory use and CPU jitter?"
+RQ1-T09,technical_documentation,9,zh,"For the prefetching optimization Sched_ext introduced in Linux Kernel 6.12, what throughput improvement ratio is reported in high-performance game-server scenarios?"
+RQ1-T10,technical_documentation,10,zh,"After Tailwind CSS v4.0 abandoned JavaScript configuration files for an all-CSS configuration engine, how should variable overrides for multi-theme setups be handled?"
+RQ1-T11,technical_documentation,11,zh,"For the recently disclosed CVE-2025-XXXX, please search for the latest 2025 high-severity vulnerability involving OpenSSH or a key component: what are the concrete exploit path and patch details?"
+RQ1-T12,technical_documentation,12,zh,"In Go 1.24, what substantive optimization data exist for memory fragmentation after the Swiss Tables improvement to the underlying map implementation?"
+RQ1-T13,technical_documentation,13,zh,What are the latest performance-improvement metrics in PostgreSQL 17 for parallel VACUUM processes and Logical Replication failover?
+RQ1-T14,technical_documentation,14,zh,"In React 19, what known performance edge cases does the Compiler's automatic memoization mechanism have for extremely large complex component trees compared with manual useMemo?"
+RQ1-T15,technical_documentation,15,zh,"For Rust 1.82 stable's safe_ffi external-call enhancement, how do the new attributes reduce overflow risk during FFI calls?"
+RQ1-T16,technical_documentation,16,en,"Detailed analysis of the VLLM 0.7.0 update regarding ""Prefix Caching"" and its impact on multi-turn dialogue latency."
+RQ1-T17,technical_documentation,17,en,How to configure Istio 1.24 Ambient Mesh to interoperate with legacy Sidecar-based services without losing mTLS?
+RQ1-T18,technical_documentation,18,en,What are the breaking changes in LangChain 0.3 migration for custom tool definitions and agent executors?
+RQ1-T19,technical_documentation,19,en,Technical breakdown of the Intel Falcon Shores GPU-CPU hybrid architecture's shared memory bandwidth for AI training.
+RQ1-T20,technical_documentation,20,en,"How does TypeScript 5.7's new ""Inferred Type Support"" for uninitialized variables change strict null checking workflows?"
+RQ1-T21,technical_documentation,21,en,Benchmarking DuckDB 1.1 vs. SQLite for local WASM-based analytical queries: Latest 2025 performance data.
+RQ1-T22,technical_documentation,22,en,What is the specific data format of the newly proposed WebNN (Web Neural Network) API for hardware-accelerated inference in Chrome 132+?
+RQ1-T23,technical_documentation,23,en,"Explaining the ""Speculative Decoding"" implementation in the Llama 3.3 specialized 70B variant for edge devices."
+RQ1-T24,technical_documentation,24,en,How to mitigate the 2025 CPU Side-channel vulnerability (search for the latest one) using microcode updates vs. software kernels?
+RQ1-T25,technical_documentation,25,en,The architectural differences between Mojo's Max engine and CUDA for sparse matrix multiplication as of 2026.
+RQ1-T26,technical_documentation,26,en,What are the new HTTP/3 priorities (RFC 9218) implementations in Cloudflare's latest 2025 edge server stack?
+RQ1-T27,technical_documentation,27,en,Comparison of CUDA 12.6 vs. 11.8 for Transformer-based kernels on H200 GPUs: Throughput and power efficiency data.
+RQ1-T28,technical_documentation,28,en,"How does Next.js 15 handle ""Partial Prerendering"" (PPR) error boundaries differently compared to the beta versions?"
+RQ1-T29,technical_documentation,29,en,Latest documentation on Apple's Swift 6 isolation regions: How does it strictly prevent data races in actor models?
+RQ1-T30,technical_documentation,30,en,What are the precise changes in Docker Desktop 4.35+ regarding its internal virtualization engine for ARM64 Windows?
